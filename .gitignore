@@ -5,6 +5,6 @@
 *.ipynb_checkpoints/*
 
 # Ignore cert file
-lib/certs.txt
+config/
 
 
