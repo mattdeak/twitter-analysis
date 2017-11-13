@@ -1,0 +1,10 @@
+# Ignore any compiled python files
+*.pyc
+
+# Ignore checkpoint files
+*.ipynb_checkpoints/*
+
+# Ignore cert file
+lib/certs.txt
+
+
